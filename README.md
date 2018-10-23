@@ -63,7 +63,7 @@ mpvue学习笔记
  8. [美食搜索 小程序](https://github.com/xiaoshengkai/mpvue-FG)
  9. [使用mpvue实现的github小程序端](https://github.com/cheesekun/wx-github)
  10. [极客教程 微信小程序版](https://github.com/cllgeek/geekjc-weixin)
- 11. 仿追书神器的小说阅读器小程序 https://github.com/zprial/wx-book
+ 11. [仿追书神器的小说阅读器小程序](https://github.com/zprial/wx-book)
 
 
 最后，如果你有什么mpvue作品，请和大家分享：https://github.com/Meituan-Dianping/mpvue/issues/21
