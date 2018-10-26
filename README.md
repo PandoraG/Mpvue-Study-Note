@@ -7,6 +7,13 @@ mpvue学习笔记
 ## 目录
  - [前言](#perface)
    - [开始前几个问题](#perface-qa) 
+ - [开始](#gogo)
+ - [性能优化](#optimize)
+ - [资料](#resource)
+   - [文档](#resource-doc)
+   - [一些使用mpvue开发的项目](#resource-app)
+ 
+
 
 ## <a id="perface">前 言</a>
 
@@ -36,7 +43,7 @@ mpvue学习笔记
 
 
 
-## 开始
+## <a id="gogo">开始</a>
 
 ### 小程序版本的 Vue.js
 
@@ -46,16 +53,16 @@ mpvue学习笔记
 
 
 
-##　性能优化
+##　<a id="optimize">性能优化</a>
 
 
 
-## 学习资料
+## <a id="resource">学习资料</a>
 
-### 文档
+### <a id="resource-doc">文档</a>
  - [mpvue官网文档](http://mpvue.com/)
 
-### 一些使用mpvue开发的项目
+### <a id="resource-app">一些使用mpvue开发的项目</a>
  1. ezchinese-用mpvue写得打卡小程序： 
  2. [嘎嘎记单词]( https://github.com/gagaprince/BrainStormWxApp)
  3. [MpUI 是一套基于 weui-wxss 开发的 mpvue 组件库，增加了一些新的特性、样式和组件](https://gon.gyeq.in/mpui/#/)
