@@ -4,8 +4,11 @@ mpvue学习笔记
  - Author: G-Dragon
  - Time:   2018-10-23
 
+## 目录
+ - [前言](#perface)
+   - [开始前几个问题](#perface-qa) 
 
-## 前 言
+## <a id="perface">前 言</a>
 
 创建这个仓库的目的是将使用 `mpvue` 过程中的一些总结、思考、遇到的问题记录下来，一方面是对过程的记录，另一方面，书写可以让我更善于思考。最后，也希望我的日志对各位看官有用。
 
@@ -20,7 +23,7 @@ mpvue学习笔记
 
 
 
-### 开始前几个问题
+### <a id="perface-qa">开始前几个问题</a>
 
 #### 为什么选择 `mpvue` 开发小程序
 
@@ -64,6 +67,8 @@ mpvue学习笔记
  9. [使用mpvue实现的github小程序端](https://github.com/cheesekun/wx-github)
  10. [极客教程 微信小程序版](https://github.com/cllgeek/geekjc-weixin)
  11. [仿追书神器的小说阅读器小程序](https://github.com/zprial/wx-book)
+ 12. IT之家第三方小程序版客户端 https://github.com/F-loat/ithome-lite
+ 13. 网易严选商城 https://github.com/heyushuo/mpvue-shop
 
 
 最后，如果你有什么mpvue作品，请和大家分享：https://github.com/Meituan-Dianping/mpvue/issues/21
