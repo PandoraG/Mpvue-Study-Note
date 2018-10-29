@@ -1,8 +1,8 @@
 # Mpvue-Study-Note
 mpvue学习笔记
 
- - Author: G-Dragon
- - Time:   2018-10-23
+ - Author  :  G-Dragon
+ - Time    :  2018-10-23
 
 ---
 
