@@ -4,6 +4,8 @@ mpvue学习笔记
  - Author: G-Dragon
  - Time:   2018-10-23
 
+---
+
 ## 目录
  - [前言](#perface)
    - [开始前几个问题](#perface-qa) 
@@ -14,6 +16,7 @@ mpvue学习笔记
    - [一些使用mpvue开发的项目](#resource-app)
  
 
+---
 
 ## <a id="perface">前 言</a>
 
